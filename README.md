@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @graziusoj
 - 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning Computer engineering
+- 🌱 I’m currently learning Economy and Finance
 - 📫 How to reach me: 
   - Linktree: https://linktr.ee/JacopoGraziuso
   - E-mail: jacopograziuso@libero.it
