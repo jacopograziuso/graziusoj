@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @graziusoj
-- 👀 I’m interested in Programming and Cyber security
+- 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning Computer engineering
 - 📫 How to reach me: 
   - Linktree: https://linktr.ee/JacopoGraziuso
