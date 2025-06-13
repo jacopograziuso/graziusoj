@@ -1,4 +1,3 @@
-SHORT bio:
 I'm an economist in training, a lecturer and a populariser. My writing covers Bitcoin, finance, economy, geopolitics and future. I believe in free, accessible knowledge.
 
 How to contact me: https://linktr.ee/JacopoGraziuso
